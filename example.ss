@@ -1,5 +1,6 @@
 #lang scheme/base
 (require 2htdp/universe
+         htdp/image
          scheme/match
          "sps.ss")
 
